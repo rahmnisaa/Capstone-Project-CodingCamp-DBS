@@ -1,0 +1,16 @@
+tensorflow==2.12.0
+tensorflowjs==4.22.0
+pandas==1.5.3
+numpy==1.24.3
+scikit-learn==1.4.2
+matplotlib==3.8.4
+packaging==23.2
+datasets==3.5.0
+fsspec[http]==2023.12.2
+nilearn==0.11.1
+google-api-core==2.11.1
+pandas-gbq==0.26.1
+bigframes==1.36.0
+rich==13.7.1
+plotnine==0.14.5
+mlxtend==0.23.4
