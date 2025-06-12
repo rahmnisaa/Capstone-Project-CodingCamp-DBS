@@ -3,27 +3,6 @@
 
 Selamat datang di repository **Machine Learning Models** untuk aplikasi **Pinjemin**! Repository ini berisi model-model rekomendasi dan pencarian berbasis machine learning yang mendukung sistem pencarian dan penyewaan barang berdasarkan hobi pengguna.
 
-## 🗂 Struktur Repository
-├── model/
-│ ├── item_based/
-│ ├── user_based/
-│ └── keyword_search/
-│
-├── src/
-│ ├── item_based/
-│ ├── user_based/
-│ ├── keyword_search/
-│ └── notebooks/
-│ ├── 01_data_preprocessing.ipynb
-│ ├── 02_model_training.ipynb
-│ └── 03_model_inference.ipynb
-│
-└── all_dataset/
-├── user_data.csv
-├── item_data.csv
-└── interaction_data.csv
-
-
 ### 📁 model/
 Berisi file hasil pelatihan dari setiap model:
 
